@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=SysMon
+Exec=python3 /usr/local/bin/wor-sys/app.py
+Icon=/usr/local/bin/wor-sys/logo.png
+Type=Application
+Categories=Utility;
