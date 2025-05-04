@@ -19,6 +19,16 @@
 sudo apt update
 sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-appindicator3-0.1
 ```
+Если буду проблемы добавить
+```bash
+sudo apt update
+sudo apt install python3.10-dev
+sudo apt install pkg-config
+sudo apt install libcairo2-dev
+sudo apt install build-essential
+pip install pygobject
+```
+
 💡 Python-зависимости.
 ```bash
 pip install -r requirements.txt
