@@ -10,7 +10,7 @@
 
 🎥 Видео-демо
 Посмотрите, как OFF_RES работает на практике:
-[![OFF_RES Видео-демо](https://img.youtube.com/vi/AVzxt623t2A/0.jpg)](https://www.youtube.com/watch?v=TDo2tV02jaE&ab)
+[(https://img.youtube.com/vi/AVzxt623t2A/0.jpg)](https://www.youtube.com/watch?v=TDo2tV02jaE&ab)
 
 -  ЗАПУСК В РЕЖИМИ РАЗАРБОТКИ.
 
