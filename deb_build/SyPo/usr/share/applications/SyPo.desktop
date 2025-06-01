@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=SyPo
-Exec=python3 /usr/local/bin/SyPo/app.py
-Icon=/usr/local/bin/SyPo/logo.png
-Type=Application
-Categories=Utility;
