@@ -1,6 +1,6 @@
 #!/bin/bash
 
-APP_NAME="wor-sys"
+APP_NAME="SyPo"
 VERSION="1.0"
 BUILD_DIR="deb_build"
 INSTALL_DIR="${BUILD_DIR}/${APP_NAME}/usr/local/bin/${APP_NAME}"
@@ -30,7 +30,7 @@ EOF
 mkdir -p "${BUILD_DIR}/${APP_NAME}/usr/share/applications"
 cat > "${BUILD_DIR}/${APP_NAME}/usr/share/applications/${APP_NAME}.desktop" <<EOF
 [Desktop Entry]
-Name=SysMon
+Name=SyPo
 Exec=python3 /usr/local/bin/${APP_NAME}/app.py
 Icon=/usr/local/bin/${APP_NAME}/logo.png
 Type=Application
